@@ -1,0 +1,11 @@
+{
+   "servers": {
+      "https://streamwish": ["https://streamwish"],
+      "https://filelions": ["https://filelions", "https://fviplions"],
+      "https://netuplayer": ["https://netuplayer"],
+      "https://filemoon": ["https://filemoon", "https://filemooon"],
+      "https://streamtape": ["https://streamtape"],
+      "https://www.mp4upload.com": ["https://www.mp4upload.com"],
+      "https://uqload.io": ["https://uqload.io"]
+   }
+}
