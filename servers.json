@@ -1,7 +1,7 @@
 {
    "servers": {
       "https://streamwish": ["https://streamwish"],
-      "https://filelions": ["https://filelions", "https://fviplions"],
+      "https://filelions": ["https://filelions"],
       "https://netuplayer": ["https://netuplayer"],
       "https://filemoon": ["https://filemoon", "https://filemooon"],
       "https://streamtape": ["https://streamtape"],
