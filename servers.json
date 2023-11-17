@@ -5,7 +5,9 @@
       "https://netuplayer": ["https://netuplayer"],
       "https://filemoon": ["https://filemoon", "https://filemooon"],
       "https://streamtape": ["https://streamtape"],
-      "https://www.mp4upload.com": ["https://www.mp4upload.com"],
-      "https://uqload.io": ["https://uqload.io"]
+      "https://www.mp4upload": ["https://www.mp4upload"],
+      "https://uqload": ["https://uqload"],
+      "https://mixdrop": ["https://mixdrop"],
+      "https://dood": ["https://dood"]
    }
 }
